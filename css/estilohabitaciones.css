@@ -1,60 +1,73 @@
 body {
-    background: white;
-    font-family: Georgia, times, serif;
+    background: black;
     color: white;
-    margin: 0;
+    margin: auto;
     padding: 0;
     font-size: 1.2rem;
     line-height: 1.1em;
-    
 }
 
 
-
-.contenedor2H{
-    background:  white;
-    padding: 0px;
-    margin: auto;
-    margin-top: 30px;
-    display: flex;
-    width: 90%;
-    align-items: center;
-    border-radius: 8px;
-}
 
 .paneltituloH{
     background: #e72d2d;
     text-align: center;
+    font-size: 150%;
     width: 100%;
+    position: absolute;
+    top: 84px;
+}
 
+.paneltituloH h1{
+    padding: 0p;
+}
+.paneltituloH h2{
+    padding: 0px;
 }
 
 
+.contenedorprincipal{
+    background: rgb(44, 238, 69);
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    position: relative;
+    top: 140px;
+    
+}
+
+
+.contenedor2H{
+    background:  white;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    width: 100%;
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    
+
+}
+
 .contenedor2H img{
     padding: 0;
-    margin: 0px;
+    margin: 0%;
     width: 50%;
     height: 300px;
     border-radius: 8px;
 }
 
-.contenedor21 h1{
+h1{
     font-family: 'Dancing Script', cursive;
-    padding-top: 22px;
+    
     
 }
-
-.contenedor21 h2{
-    font-family: 'Teko', sans-serif;
-    padding-top: 22px;
-    
-}
-
 
  h2{
-    font-family: sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
     font-size: 1.2rem;
-    line-height: 1.3em;
+    line-height: 1.2em;
     padding-top: 22px;
 }
 
