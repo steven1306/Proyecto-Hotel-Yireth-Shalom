@@ -1,0 +1,73 @@
+body {
+    background: white;
+    font-family: Georgia, times, serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 1.2rem;
+    line-height: 1.1em;
+    
+}
+
+
+
+.contenedor2H{
+    background:  white;
+    padding: 0px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    width: 90%;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.paneltituloH{
+    background: #e72d2d;
+    text-align: center;
+    width: 100%;
+
+}
+
+
+.contenedor2H img{
+    padding: 0;
+    margin: 0px;
+    width: 50%;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.contenedor21 h1{
+    font-family: 'Dancing Script', cursive;
+    padding-top: 22px;
+    
+}
+
+.contenedor21 h2{
+    font-family: 'Teko', sans-serif;
+    padding-top: 22px;
+    
+}
+
+
+ h2{
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.3em;
+    padding-top: 22px;
+}
+
+
+.contenedor2H .contenedor21{
+    
+    margin-left: 20px;
+    width: 50%;
+    height: 300px;
+    background: #e72d2d;
+    border-radius: 8px;
+    padding: 0px 20px;
+    
+    
+
+}
