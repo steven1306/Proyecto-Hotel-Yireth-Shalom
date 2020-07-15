@@ -1,13 +1,12 @@
 body {
-    background: white;
-    font-family: Georgia, times, serif;
-    color: wi;
-    margin: 0;
+    background: black;
+    color: white;
+    margin: auto;
     padding: 0;
     font-size: 1.2rem;
     line-height: 1.1em;
-    
 }
+
 
 .direccionHYS iframe{
     
