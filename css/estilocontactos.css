@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: rgb(88, 88, 88);
     color: white;
     margin: auto;
     padding: 0;
@@ -9,9 +9,8 @@ body {
 
 
 .direccionHYS iframe{
-    
+    margin-top: 83px;
     width: 100%;
-    
 }
 
 

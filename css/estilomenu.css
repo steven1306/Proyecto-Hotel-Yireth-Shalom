@@ -6,6 +6,7 @@
     left: 0;
     top: 0;
     width: 100%;
+    box-shadow: 0 2px  rgb(248, 7, 7);
 }
 
 .header a {
@@ -58,11 +59,6 @@
     display: none;
 }
 
-.contenedorvacio {
-    background: rgba(243, 10, 10, 0.952);
-    padding: 41px;
-
-}
 
 /*________________________________________*/
 /*            menu miniatura             */
